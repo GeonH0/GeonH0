@@ -14,6 +14,7 @@
 - [번개장터 서버 클론 코딩](https://github.com/mock-rc9/bunjang_server_carter_cindy)
 - 역할: 서버 개발
 - 일정:2022년 9월17 ~ 9월30일
+- 번재장터 클론 프로젝트로 2인협업으로 진행되었으며 Clinet(IOS) 3인에게 서버를 제공했습니다.
 
 
 
