@@ -1,16 +1,24 @@
+
 ### Hi there 👋
 
-<!--
-**GeonH0/GeonH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+#### 라이징캠프(백앤드) 2022.08 ~ 2022.10
+#### 멋쟁이사자처럼 IOS 앱스쿨 3기 2023.09 ~
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<p align="center">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/> 
+</p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonH0&show_icons=true&theme=dark)
+</br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h2jo369)](https://solved.ac/h2jo369)
