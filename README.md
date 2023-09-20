@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/> 
 </p>
 
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonH0&show_icons=true&theme=dark)
 </br>
