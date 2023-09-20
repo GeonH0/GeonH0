@@ -1,5 +1,9 @@
 
-
+## Profile
+이름 : 김건호
+ - 생년월일 : 1998 - 11- 24
+ - Email : <a href = "mailto: h2jo369@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"> </a>
+ 
 
 ## Education
 #### 라이징캠프(백앤드) 2022.08 ~ 2022.09
